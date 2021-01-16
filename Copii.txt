@@ -1,0 +1,5 @@
+Ana Maria,14,Kumanovo,carte-halat-papuci,roz
+Bogdan Ionut,13,Bistola,masina-adidasi,albastru
+Octavian Paler,4,Ohrid,carte,albastru
+Mircea Daniel,12,Gostivar,portofel-trotineta,albastru
+Saru Maria,15,Skopje,caine,roz

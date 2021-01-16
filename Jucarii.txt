@@ -1,0 +1,9 @@
+carte 10
+halat 25
+papuci 14
+masina 140
+telefon 200
+adidasi 45
+trotineta 76
+fundita 2
+portofel 20
